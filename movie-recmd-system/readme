@@ -1,0 +1,7 @@
+# What is needed to run this project
+
+- Add the libraries
+
+- Need to add movie_list.pkl and similarity.pkl with the help of jupyter notebook code
+
+- Pls add the key to the url in app.py file by making the account in https://www.themoviedb.org/ site url = "https://api.themoviedb.org/3/movie/{}?api_key=aad_your_key&language=en-US".format(movie_id)
